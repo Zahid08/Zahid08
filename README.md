@@ -20,7 +20,7 @@
 
 - 🏗️ **Solutions Architect & Technical Lead at ApexDMIT.** I lead a cross-functional team and own backend architecture for **PropSoft.ai**, a property preservation SaaS used by field teams across the US (nearly 2.5 million field photos uploaded).
 - ⚡ Cut a critical production API from **52 seconds to 400 ms**. Run AWS and DigitalOcean infrastructure at **99.9% uptime** with Jenkins CI/CD.
-- 🤖 AI writes more of the code now, so I focus on the part it can't own: architecture, connecting AI safely to real data, and production. I build AI products like **[Conversa AI](https://conversaai.net)** (one AI agent across web chat, WhatsApp, Instagram and Messenger, answering from each business's own data with RAG).
+- 🤖 AI writes more of the code now, so I focus on the part it can't own: architecture, connecting AI safely to real data, and production. I build AI products like **[Conversa AI](https://conversaai.net)** (one AI agent across web chat, WhatsApp, Instagram and Messenger, answering from each business's own data with RAG), with every prompt change checked by a regression eval suite.
 - 🔄 My team builds with **AI-DLC** (AI-Driven Development Lifecycle), and I review code daily, including everything AI writes.
 - 🏦 Before that: secure **banking and government systems**, in-house payment gateways, and ThemeForest plugins with a **100% acceptance rate**. Mentored 4 junior developers.
 - 🌍 Based in **Dhaka, Bangladesh**, working with clients worldwide: **50+ five-star reviews (~4.9★)**.
@@ -31,7 +31,7 @@
 
 | Project | What it is |
 |---|---|
-| **[Conversa AI](https://conversaai.net)** | Live multi-tenant Laravel AI platform: RAG with Qdrant / Pinecone, budget-aware LLM routing (OpenAI, Claude, Ollama), omnichannel inbox |
+| **[Conversa AI](https://conversaai.net)** | My own live multi-tenant Laravel AI platform: RAG with Qdrant / Pinecone, OpenAI with Groq fallback, omnichannel inbox, a 26-case regression eval suite from real failures, and per-reply cost metering ($0.00061/reply) |
 | **[company_developer_master_agent](https://github.com/Zahid08/company_developer_master_agent)** | An "office of AI agents" on the Claude Agent SDK: pulls Jira tickets, codes in the real repo, hands back to a human for review |
 | **[ai-devops](https://github.com/Zahid08/ai-devops)** | Chat-driven DevOps agent: give it a server and say "deploy this", it provisions, hardens and deploys a Laravel app with confirmation steps |
 
