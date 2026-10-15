@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Zahid</h1>
 
-<h3 align="center">Senior Full-Stack Engineer &nbsp;·&nbsp; Solutions Architect &nbsp;·&nbsp; Laravel · React · AWS</h3>
+<h3 align="center">Senior Full-Stack Engineer &amp; Solutions Architect &nbsp;·&nbsp; Laravel · React · AWS &nbsp;·&nbsp; 8+ yrs</h3>
+
+<p align="center">
+  <em>Building AI products &amp; adding RAG/LLM to Laravel apps</em>
+</p>
 
 <p align="center">
   <em>8+ years building Laravel and React SaaS that runs at scale. I build AI products and add RAG/LLM to existing Laravel apps.</em>
