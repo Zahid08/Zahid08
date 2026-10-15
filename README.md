@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Zahid</h1>
 
-<h3 align="center">Senior Full-Stack Engineer &nbsp;·&nbsp; AI-Native Software Engineer &nbsp;·&nbsp; Solutions Architect</h3>
+<h3 align="center">Senior Full-Stack Engineer &nbsp;·&nbsp; Solutions Architect &nbsp;·&nbsp; Laravel · React · AWS</h3>
 
 <p align="center">
-  <em>7+ years building production web apps and AI-powered systems — from Laravel/Node back-ends to Next.js front-ends and LLM/RAG pipelines.</em>
+  <em>8+ years building Laravel and React SaaS that runs at scale. I build AI products and add RAG/LLM to existing Laravel apps.</em>
 </p>
 
 <p align="center">
@@ -18,12 +18,22 @@
 
 ### 🚀 About Me
 
-- 🔭 I build **end-to-end web platforms** and **AI-native products** — REST/GraphQL APIs, real-time apps, and LLM-powered features.
-- 🟥 **7+ years with Laravel** plus the modern **JavaScript/TypeScript** ecosystem (React, Next.js, Node.js).
-- 🤖 Building with **LLMs, RAG, agents (CrewAI), and workflow automation** — wiring AI into real products.
-- ☁️ Shipping on **AWS & Docker**, currently studying for the **CKA (Certified Kubernetes Administrator)**.
-- 🌍 Based in **Dhaka, Bangladesh** — working with clients worldwide (⭐ 4.9 Fiverr · 4.8 Truelancer).
-- 💬 Ask me about **Laravel, Next.js, system design, and integrating AI into real products.**
+- 🏗️ **Solutions Architect & Technical Lead at ApexDMIT.** I lead a cross-functional team and own backend architecture for **PropSoft.ai**, a property preservation SaaS used by field teams across the US (nearly 2.5 million field photos uploaded).
+- ⚡ Cut a critical production API from **52 seconds to 400 ms**. Run AWS and DigitalOcean infrastructure at **99.9% uptime** with Jenkins CI/CD.
+- 🤖 AI writes more of the code now, so I focus on the part it can't own: architecture, connecting AI safely to real data, and production. I build AI products like **[Conversa AI](https://conversaai.net)** (one AI agent across web chat, WhatsApp, Instagram and Messenger, answering from each business's own data with RAG).
+- 🔄 My team builds with **AI-DLC** (AI-Driven Development Lifecycle), and I review code daily, including everything AI writes.
+- 🏦 Before that: secure **banking and government systems**, in-house payment gateways, and ThemeForest plugins with a **100% acceptance rate**. Mentored 4 junior developers.
+- 🌍 Based in **Dhaka, Bangladesh**, working with clients worldwide: **50+ five-star reviews (~4.9★)**.
+
+---
+
+### 📌 Featured Work
+
+| Project | What it is |
+|---|---|
+| **[Conversa AI](https://conversaai.net)** | Live multi-tenant Laravel AI platform: RAG with Qdrant / Pinecone, budget-aware LLM routing (OpenAI, Claude, Ollama), omnichannel inbox |
+| **[company_developer_master_agent](https://github.com/Zahid08/company_developer_master_agent)** | An "office of AI agents" on the Claude Agent SDK: pulls Jira tickets, codes in the real repo, hands back to a human for review |
+| **[ai-devops](https://github.com/Zahid08/ai-devops)** | Chat-driven DevOps agent: give it a server and say "deploy this", it provisions, hardens and deploys a Laravel app with confirmation steps |
 
 ---
 
@@ -37,7 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend & Frameworks** — ⭐ 7+ years with Laravel
+**Backend & Frameworks** — ⭐ 8+ years with Laravel
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -75,7 +85,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes%20(CKA%20in%20progress)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20(course%20completed)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -103,5 +113,5 @@
 ---
 
 <p align="center">
-  <em>💼 Open to senior full-stack & AI engineering opportunities — let's build something great.</em>
+  <em>💼 Open to senior full-stack, solutions architect and tech-lead roles, and contract work building AI products or adding AI to Laravel / PHP apps.</em>
 </p>
