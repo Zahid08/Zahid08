@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <em>8+ years building Laravel and React SaaS that runs at scale. I build AI products and add RAG/LLM to existing Laravel apps.</em>
-</p>
-
-<p align="center">
   <a href="https://abuzahid.career-canvas.me/"><img src="https://img.shields.io/badge/Portfolio-abuzahid.career--canvas.me-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/zahidhasan24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.upwork.com/freelancers/~017abaa6c865cd4240"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
